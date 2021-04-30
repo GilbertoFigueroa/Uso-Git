@@ -17,6 +17,8 @@ public class UsoGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("HOla");
+        int a=10;
+        System.out.println("Numero: "+a);
     }
     
 }
